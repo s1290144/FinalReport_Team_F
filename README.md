@@ -1,2 +1,2 @@
 # FinalReport Authorship analysis 
-# <Team F>
+# Team F
